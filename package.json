@@ -33,7 +33,7 @@
     "dotenv-webpack": "^1.8.0",
     "eslint": "^7.4.0",
     "firebase": "^7.16.0",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "karma": "^5.1.0",
     "karma-chrome-launcher": "^3.1.0",
     "karma-coverage": "^2.0.2",
